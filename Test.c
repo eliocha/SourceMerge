@@ -1,9 +1,10 @@
-void funca()
+int funca()
 {
   int ttt;
+  return 2;
 
 }
-void funcB()
+int funcB()
 {
-
+  return 1;
 }
